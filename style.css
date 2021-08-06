@@ -1,0 +1,107 @@
+.navbar {
+   margin-top: 10mm;
+    padding-top: 1%;
+    display: flex;
+    justify-content: space-evenly; 
+    background-color: rgb(240, 209, 178);
+    font-size: 25px;
+    opacity: 50%;
+    position: fixed;
+    border-bottom: 1px rgba(rgb(152, 207, 130), rgb(224, 124, 111), rgb(158, 158, 228), alpha) solid;
+    font-family: monospace;
+    border-color: thistle;
+    border: lightsteelblue;
+    width: 100%;
+    flex-direction: row;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar a :hover{
+    color: rgb(91, 197, 139);
+}
+
+
+
+p1{
+    color: rgb(111, 126, 207);
+    font-family: monospace;
+    font-size: x-large;
+    display: flex;
+    justify-content: left;
+}
+h1{
+   color: lightcoral;
+}
+footer{
+    color: rgb(83, 197, 135);
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+
+}
+
+.container2{
+
+display: flex;
+height: 20%;
+justify-content: space-between;
+    
+}
+
+.container1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.container3{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    size: 80%;
+  }
+h1{
+    color: lightcoral;
+    font-size: xx-large;
+    font-family: monospace;
+    display: flex;
+   
+}
+iframe{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    font-family: monospace;
+    color: lightcoral;
+    font-size: xx-large;
+}
+
+
+#main{
+   background-color:linen;
+   
+}
+.container6{
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    size: 40%;
+}
+.container7{
+    display: flex;
+    display: row;
+    align-items: center;
+    align-items:flex-start
+
+ 
+    
+}
+.container8{
+    display: flex;
+    align-items: flex-start;
+}
